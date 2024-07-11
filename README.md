@@ -2,6 +2,7 @@
 ## 참고 
 - [Dive into Deep Learning](https://d2l.ai/)
 - [PyTorch](https://tutorials.pytorch.kr/beginner/basics/intro.html)
+- [Hugging Face](https://huggingface.co/)
 
 ## 7/4
 - 3-1: [선형회귀](https://velog.io/@soheean1370/Dive-into-Deep-Learning-%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80)
@@ -10,3 +11,6 @@
 
 ## 7/8
 - [파이토치 시작하기](https://velog.io/@soheean1370/%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98-%EA%B8%B0%EB%B3%B8-%EC%9D%B5%ED%9E%88%EA%B8%B0)
+
+## 7/11
+- [Transformers](https://velog.io/@soheean1370/Hugging-face%EB%9E%80)
