@@ -14,3 +14,6 @@
 
 ## 7/11
 - [Transformers](https://velog.io/@soheean1370/TRANSFORMERMODELS)
+
+## 7/18
+- [Using Transformers](https://velog.io/@soheean1370/USING-TRANSFORMERS)
