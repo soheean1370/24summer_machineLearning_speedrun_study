@@ -13,4 +13,7 @@
 - [파이토치 시작하기](https://velog.io/@soheean1370/%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98-%EA%B8%B0%EB%B3%B8-%EC%9D%B5%ED%9E%88%EA%B8%B0)
 
 ## 7/11
-- [Transformers](https://velog.io/@soheean1370/Hugging-face%EB%9E%80)
+- [Transformers](https://velog.io/@soheean1370/TRANSFORMERMODELS)
+
+## 7/18
+- [Using Transformers](https://velog.io/@soheean1370/USING-TRANSFORMERS)
