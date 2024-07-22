@@ -17,3 +17,6 @@
 
 ## 7/18
 - [Using Transformers](https://velog.io/@soheean1370/USING-TRANSFORMERS)
+
+## 7/22
+- [cifar10](https://velog.io/@soheean1370/cifar10-my9b4eok)
