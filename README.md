@@ -20,3 +20,6 @@
 
 ## 7/22
 - [cifar10](https://velog.io/@soheean1370/cifar10-my9b4eok)
+
+## 7/25
+- [Fine-tuning a pretrained model](https://velog.io/@soheean1370/FINE-TUNING-A-PRETRAINED-MODEL)
