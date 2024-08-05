@@ -30,3 +30,6 @@
 ## 8/1 
 - [RNN](https://velog.io/@soheean1370/RNN)
 - [Word Embedding](https://velog.io/@soheean1370/%EC%9B%8C%EB%93%9C-%EC%9E%84%EB%B2%A0%EB%94%A9)
+
+## 8/5
+- [loss function](https://velog.io/@soheean1370/Loss-function)
